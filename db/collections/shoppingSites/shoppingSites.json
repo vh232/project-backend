@@ -1,0 +1,96 @@
+[{
+    "_id": {
+      "$oid": "6594421694b0f2c0ed2da1e1"
+    },
+    "name": "Amazon",
+    "url": "www.amazon.co.uk",
+    "logoUrl": "https://www.amazon.co.uk/favicon.ico"
+  },
+  {
+    "_id": {
+      "$oid": "6594421694b0f2c0ed2da1e2"
+    },
+    "name": "Ebay",
+    "url": "www.ebay.co.uk",
+    "logoUrl": "https://www.ebay.co.uk/favicon.ico"
+  },
+  {
+    "_id": {
+      "$oid": "6594421694b0f2c0ed2da1e3"
+    },
+    "name": "ASOS",
+    "url": "www.asos.com",
+    "logoUrl": "https://www.asos.com/favicon.ico"
+  },
+  {
+    "_id": {
+      "$oid": "6594421694b0f2c0ed2da1e4"
+    },
+    "name": "Boohoo",
+    "url": "www.boohoo.com",
+    "logoUrl": "https://www.boohoo.com/favicon.ico"
+  },
+  {
+    "_id": {
+      "$oid": "6594421694b0f2c0ed2da1e5"
+    },
+    "name": "Next",
+    "url": "www.next.co.uk",
+    "logoUrl": ""
+  },
+  {
+    "_id": {
+      "$oid": "6594421694b0f2c0ed2da1e6"
+    },
+    "name": "John Lewis",
+    "url": "www.johnlewis.com",
+    "logoUrl": "www.johnlewis.com/favicon.ico"
+  },
+  {
+    "_id": {
+      "$oid": "6594421694b0f2c0ed2da1e7"
+    },
+    "name": "Argos",
+    "url": "www.argos.co.uk",
+    "logoUrl": "https://www.argos.co.uk/favicon.ico"
+  },
+  {
+    "_id": {
+      "$oid": "6594421694b0f2c0ed2da1e8"
+    },
+    "name": "Currys",
+    "url": "www.currys.co.uk",
+    "logoUrl": "https://www.currys.co.uk/favicon.ico"
+  },
+  {
+    "_id": {
+      "$oid": "6594421694b0f2c0ed2da1e9"
+    },
+    "name": "Etsy",
+    "url": "www.etsy.com",
+    "logoUrl": "https://www.etsy.com/favicon.ico"
+  },
+  {
+    "_id": {
+      "$oid": "6594421694b0f2c0ed2da1ea"
+    },
+    "name": "UberEats",
+    "url": "www.ubereats.com",
+    "logoUrl": ""
+  },
+  {
+    "_id": {
+      "$oid": "6594421694b0f2c0ed2da1eb"
+    },
+    "name": "Deliveroo",
+    "url": "www.deliveroo.co.uk",
+    "logoUrl": "https://cdn.iconscout.com/icon/free/png-512/free-deliveroo-3442893-2875354.png?f=webp&w=512"
+  },
+  {
+    "_id": {
+      "$oid": "6594421694b0f2c0ed2da1ec"
+    },
+    "name": "Just-Eat",
+    "url": "www.just-eat.co.uk",
+    "logoUrl": "https://www.just-eat.co.uk/favicon.ico"
+  }]
