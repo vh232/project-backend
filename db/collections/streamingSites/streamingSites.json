@@ -3,7 +3,7 @@
       "$oid": "65952c793b83fbecdcd9c895"
     },
     "name": "Netflix",
-    "url": "www.netflix.co.uk",
+    "url": "netflix.co.uk",
     "logoUrl": ""
   },
   {
@@ -11,7 +11,7 @@
       "$oid": "65952c793b83fbecdcd9c896"
     },
     "name": "Youtube",
-    "url": "www.youtube.co.uk",
+    "url": "youtube.co.uk",
     "logoUrl": "https://www.youtube.co.uk/favicon.ico"
   },
   {
@@ -19,7 +19,7 @@
       "$oid": "65952c793b83fbecdcd9c897"
     },
     "name": "Prime Video",
-    "url": "",
+    "url": "amazon.com/Amazon-Video",
     "logoUrl": "https://www.amazon.com/favicon.ico?gl=GB"
   },
   {
@@ -27,7 +27,7 @@
       "$oid": "65952c793b83fbecdcd9c898"
     },
     "name": "Disney+",
-    "url": "www.disneyplus.co.uk",
+    "url": "disneyplus.co.uk",
     "logoUrl": "https://www.disneyplus.com/favicon.ico?gl=GB"
   },
   {
@@ -43,7 +43,7 @@
       "$oid": "65952c793b83fbecdcd9c89a"
     },
     "name": "NowTV",
-    "url": "www.nowtv.com",
+    "url": "nowtv.com",
     "logoUrl": "https://www.nowtv.com/favicon.ico?gl=GB"
   },
   {
@@ -51,7 +51,7 @@
       "$oid": "65952c793b83fbecdcd9c89b"
     },
     "name": "All4",
-    "url": "www.channel4.com",
+    "url": "channel4.com",
     "logoUrl": "https://www.channel4.com/favicon.ico?gl=GB"
   },
   {
@@ -59,7 +59,7 @@
       "$oid": "65952c793b83fbecdcd9c89c"
     },
     "name": "BBC iPlayer",
-    "url": "www.bbc.co.uk/iplayer",
+    "url": "bbc.co.uk/iplayer",
     "logoUrl": "https://www.bbc.com/favicon.ico?gl=GB"
   },
   {
@@ -67,7 +67,7 @@
       "$oid": "65952c793b83fbecdcd9c89d"
     },
     "name": "ITVhub",
-    "url": "www.itv.com",
+    "url": "itv.com",
     "logoUrl": "https://www.itv.com/favicon.ico?gl=GB"
   },
   {
@@ -75,7 +75,7 @@
       "$oid": "65952c793b83fbecdcd9c89e"
     },
     "name": "AppleTV",
-    "url": "https://tv.apple.com/gb?itscg=MC_20000&itsct=atvp_brand_omd&mttn3pid=Google%20AdWords&mttnagencyid=a5e&mttncc=UK&mttnsiteid=143238&mttnsubad=OUK2019801_1-681206104221-c&mttnsubkw=155336600106__JunzQzNj_&mttnsubplmnt=_adext_",
+    "url": "tv.apple.com",
     "logoUrl": ""
   },
   {
@@ -83,6 +83,6 @@
       "$oid": "65952c793b83fbecdcd9c89f"
     },
     "name": "NextUp",
-    "url": "https://nextupcomedy.com/",
+    "url": "nextupcomedy.com/",
     "logoUrl": ""
   }]

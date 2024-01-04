@@ -3,7 +3,7 @@
       "$oid": "6594425f94b0f2c0ed2da1ef"
     },
     "name": "Facebook",
-    "url": "www.facebook.co.uk",
+    "url": "facebook.com",
     "logoUrl": "https://facebook.com/favicon.ico"
   },
   {
@@ -11,7 +11,7 @@
       "$oid": "6594425f94b0f2c0ed2da1f0"
     },
     "name": "Instagram",
-    "url": "www.instagram.co.uk",
+    "url": "instagram.com",
     "logoUrl": "https://instagram.com/favicon.ico"
   },
   {
@@ -19,7 +19,7 @@
       "$oid": "6594425f94b0f2c0ed2da1f1"
     },
     "name": "TikTok",
-    "url": "www.tiktok.co.uk",
+    "url": "tiktok.co.uk",
     "logoUrl": "https://tiktok.com/favicon.ico"
   },
   {
@@ -27,7 +27,7 @@
       "$oid": "6594425f94b0f2c0ed2da1f2"
     },
     "name": "Reddit",
-    "url": "www.reddit.co.uk",
+    "url": "reddit.co.uk",
     "logoUrl": "https://reddit.com/favicon.ico"
   },
   {
@@ -35,7 +35,7 @@
       "$oid": "6594425f94b0f2c0ed2da1f3"
     },
     "name": "Twitter",
-    "url": "www.twitter.co.uk",
+    "url": "twitter.co.uk",
     "logoUrl": "https://twitter.com/favicon.ico"
   },
   {
@@ -43,7 +43,7 @@
       "$oid": "6594425f94b0f2c0ed2da1f4"
     },
     "name": "Discord",
-    "url": "www.discord.co.uk",
+    "url": "discord.co.uk",
     "logoUrl": ""
   },
   {
@@ -51,6 +51,6 @@
       "$oid": "6594425f94b0f2c0ed2da1f5"
     },
     "name": "Pinterest",
-    "url": "www.pinterest.co.uk",
+    "url": "pinterest.co.uk",
     "logoUrl": "https://pinterest.com/favicon.ico"
   }]

@@ -3,32 +3,32 @@
       "$oid": "659529fa3b83fbecdcd6174e"
     },
     "name": "BetFred",
-    "url": "https://www.bet365.com/#/HO/",
-    "logoUrl": "https://www.betfred.com/favicon.ico"
+    "url": "bet365.com/#/HO/",
+    "logoUrl": "betfred.com/favicon.ico"
   },
   {
     "_id": {
       "$oid": "659529fa3b83fbecdcd6174f"
     },
     "name": "Bet365",
-    "url": "https://www.bet365.com/#/HO/",
-    "logoUrl": "https://www.bet365.com/favicon.ico"
+    "url": "bet365.com/#/HO/",
+    "logoUrl": "bet365.com/favicon.ico"
   },
   {
     "_id": {
       "$oid": "659529fa3b83fbecdcd61750"
     },
     "name": "BetWay",
-    "url": "https://www.betWay.com/",
-    "logoUrl": "https://www.betWay.com/favicon.ico"
+    "url": "betWay.com/",
+    "logoUrl": "betWay.com/favicon.ico"
   },
   {
     "_id": {
       "$oid": "659529fa3b83fbecdcd61751"
     },
     "name": "Betfair",
-    "url": "https://www.betfair.com/",
-    "logoUrl": "https://www.betfair.com/favicon.ico"
+    "url": "betfair.com/",
+    "logoUrl": "betfair.com/favicon.ico"
   },
   {
     "_id": {
@@ -36,7 +36,7 @@
     },
     "name": "Runescape",
     "url": "https://play.runescape.com/",
-    "logoUrl": "https://www.runescape.com/favicon.ico"
+    "logoUrl": "runescape.com/favicon.ico"
   },
   {
     "_id": {
@@ -51,6 +51,6 @@
       "$oid": "659529fa3b83fbecdcd61754"
     },
     "name": "Geoguessr",
-    "url": "https://www.geoguessr.com/",
+    "url": "geoguessr.com/",
     "logoUrl": ""
   }]
