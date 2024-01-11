@@ -5,14 +5,35 @@ const express = require("express");
 const mongoose = require("mongoose");
 const mongoString = process.env.DATABASE_URL;
 const routes = require("./routes/routes");
+const { Seeder } = require("mongo-seeding");
+const path = require("path");
+
+const config = {
+  database: "mongodb+srv://vicky:vicky@cluster0.navhegp.mongodb.net/blockingApp",
+  dropDatabase: true,
+};
 
 mongoose.connect(mongoString, {
   dbName: "blockingApp",
 });
 const database = mongoose.connection;
 
-database.on("error", (error) => {
-  console.log(error);
+database.on("connected", () => {
+  const seeder = new Seeder(config);
+
+const collections = seeder.readCollectionsFromPath(
+  path.resolve(`${__dirname}/db/collections`), () => {
+  }
+);
+
+seeder
+  .import(collections)
+  .then(() => {
+    console.log("Database seeded?");
+  })
+  .catch((err) => {
+    console.log(err);
+  });
 });
 
 database.once("connected", () => {
