@@ -15,4 +15,4 @@ const dataSchema = new mongoose.Schema({
   },
 });
 
-module.exports = mongoose.model("shoppingSites", dataSchema);
+module.exports = mongoose.model("shoppingsites", dataSchema);

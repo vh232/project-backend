@@ -15,4 +15,4 @@ const dataSchema = new mongoose.Schema({
   },
 });
 
-module.exports = mongoose.model("streamingSites", dataSchema);
+module.exports = mongoose.model("streamingsites", dataSchema);
