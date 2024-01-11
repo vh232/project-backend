@@ -12,6 +12,11 @@ const config = {
   database: "mongodb+srv://vicky:vicky@cluster0.navhegp.mongodb.net/blockingApp",
   dropDatabase: true,
 };
+const seeder = new Seeder(config);
+const collections = seeder.readCollectionsFromPath(
+  path.resolve(`${__dirname}/db/collections`), () => {
+  }
+);
 
 mongoose.connect(mongoString, {
   dbName: "blockingApp",
@@ -19,12 +24,8 @@ mongoose.connect(mongoString, {
 const database = mongoose.connection;
 
 database.on("connected", () => {
-  const seeder = new Seeder(config);
+  
 
-const collections = seeder.readCollectionsFromPath(
-  path.resolve(`${__dirname}/db/collections`), () => {
-  }
-);
 
 seeder
   .import(collections)
