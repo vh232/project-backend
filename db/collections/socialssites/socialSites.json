@@ -34,7 +34,7 @@
     "_id": {
       "$oid": "6594425f94b0f2c0ed2da1f3"
     },
-    "name": "Twitter",
+    "name": "X",
     "url": "twitter.co.uk",
     "logoUrl": "https://twitter.com/favicon.ico"
   },
@@ -53,4 +53,44 @@
     "name": "Pinterest",
     "url": "pinterest.co.uk",
     "logoUrl": "https://pinterest.com/favicon.ico"
+  },
+  {
+    "name": "Linked in",
+    "url": "linkedin.com/",
+    "logoUrl": ""
+  },
+  {
+    "name": "Skype",
+    "url": "skype.com",
+    "logoUrl": ""
+  },
+  {
+    "name": "Untappd",
+    "url": "untappd.com/",
+    "logoUrl": ""
+  },
+  {
+    "name": "Tumblr",
+    "url": "tumblr.com/",
+    "logoUrl": ""
+  },
+  {
+    "name": "Meetup",
+    "url": "meetup.com/",
+    "logoUrl": ""
+  },
+  {
+    "name": "Flickr",
+    "url": "flickr.com/",
+    "logoUrl": ""
+  },
+  {
+    "name": "MySpace",
+    "url": "myspace.com/",
+    "logoUrl": ""
+  },
+  {
+    "name": "snapchat",
+    "url": "snapchat.com/",
+    "logoUrl": ""
   }]

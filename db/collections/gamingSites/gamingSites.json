@@ -3,7 +3,7 @@
       "$oid": "659529fa3b83fbecdcd6174e"
     },
     "name": "BetFred",
-    "url": "bet365.com/#/HO/",
+    "url": "betFred.com",
     "logoUrl": "betfred.com/favicon.ico"
   },
   {
@@ -11,7 +11,7 @@
       "$oid": "659529fa3b83fbecdcd6174f"
     },
     "name": "Bet365",
-    "url": "bet365.com/#/HO/",
+    "url": "bet365.com",
     "logoUrl": "bet365.com/favicon.ico"
   },
   {
@@ -19,7 +19,7 @@
       "$oid": "659529fa3b83fbecdcd61750"
     },
     "name": "BetWay",
-    "url": "betWay.com/",
+    "url": "betWay.com",
     "logoUrl": "betWay.com/favicon.ico"
   },
   {
@@ -27,7 +27,7 @@
       "$oid": "659529fa3b83fbecdcd61751"
     },
     "name": "Betfair",
-    "url": "betfair.com/",
+    "url": "betfair.com",
     "logoUrl": "betfair.com/favicon.ico"
   },
   {
@@ -35,7 +35,7 @@
       "$oid": "659529fa3b83fbecdcd61752"
     },
     "name": "Runescape",
-    "url": "https://play.runescape.com/",
+    "url": "play.runescape.com",
     "logoUrl": "runescape.com/favicon.ico"
   },
   {
@@ -43,7 +43,7 @@
       "$oid": "659529fa3b83fbecdcd61753"
     },
     "name": "Steam",
-    "url": "https://store.steampowered.com/",
+    "url": "store.steampowered.com",
     "logoUrl": "https://store.steampowered.com/favicon.ico"
   },
   {
@@ -51,6 +51,46 @@
       "$oid": "659529fa3b83fbecdcd61754"
     },
     "name": "Geoguessr",
-    "url": "geoguessr.com/",
+    "url": "geoguessr.com",
+    "logoUrl": ""
+  },
+  {
+    "name": "BGG",
+    "url": "boardgamegeek.com",
+    "logoUrl": ""
+  },
+  {
+    "name": "Board Game Arena",
+    "url": "boardgamearena.com",
+    "logoUrl": ""
+  },
+  {
+    "name": "Tabletopia",
+    "url": "tabletopia.com",
+    "logoUrl": ""
+  },
+  {
+    "name": "World of Solitaire",
+    "url": "worldofsolitaire.com",
+    "logoUrl": ""
+  },
+  {
+    "name": "888",
+    "url": "888casino.com",
+    "logoUrl": ""
+  },
+  {
+    "name": "Grosvenor Casino",
+    "url": "grosvenorcasinos.com",
+    "logoUrl": ""
+  },
+  {
+    "name": "Tombola",
+    "url": "tombola.co.uk",
+    "logoUrl": ""
+  },
+  {
+    "name": "Gala Bingo",
+    "url": "galabingo.com",
     "logoUrl": ""
   }]
