@@ -13,6 +13,6 @@ const dataSchema = new mongoose.Schema({
     required: true,
     type: String,
   },
-}, {collection: gamingSites});
+}, {collection: "gamingssites"});
 
-module.exports = mongoose.model("gamingSites", dataSchema);
+module.exports = mongoose.model("gamingssites", dataSchema);
