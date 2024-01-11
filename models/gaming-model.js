@@ -15,4 +15,4 @@ const dataSchema = new mongoose.Schema({
   },
 });
 
-module.exports = mongoose.model("gamingsites", dataSchema);
+module.exports = mongoose.model("gamingSites", dataSchema);
