@@ -16,14 +16,6 @@
   },
   {
     "_id": {
-      "$oid": "65952c793b83fbecdcd9c897"
-    },
-    "name": "Prime Video",
-    "url": "amazon.com/Amazon-Video",
-    "logoUrl": "https://www.amazon.com/favicon.ico?gl=GB"
-  },
-  {
-    "_id": {
       "$oid": "65952c793b83fbecdcd9c898"
     },
     "name": "Disney+",
@@ -56,14 +48,6 @@
   },
   {
     "_id": {
-      "$oid": "65952c793b83fbecdcd9c89c"
-    },
-    "name": "BBC iPlayer",
-    "url": "bbc.co.uk/iplayer",
-    "logoUrl": "https://www.bbc.com/favicon.ico?gl=GB"
-  },
-  {
-    "_id": {
       "$oid": "65952c793b83fbecdcd9c89d"
     },
     "name": "ITVhub",
@@ -83,6 +67,20 @@
       "$oid": "65952c793b83fbecdcd9c89f"
     },
     "name": "NextUp",
-    "url": "nextupcomedy.com/",
+    "url": "nextupcomedy.com",
     "logoUrl": ""
-  }]
+  },
+  {
+    "name": ":DropOut",
+    "url": "dropout.tv",
+    "logoUrl": ""
+  },
+  {
+    "name": "Paramount+",
+    "url": "paramountplus.com",
+    "logoUrl": ""
+  },
+  { "name": "Vimeo",
+    "url": "vimeo.com",
+    "logoUrl": ""}
+]

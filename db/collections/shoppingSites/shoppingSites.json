@@ -93,4 +93,19 @@
     "name": "Just-Eat",
     "url": "just-eat.co.uk",
     "logoUrl": "https://www.just-eat.co.uk/favicon.ico"
+  },
+  {
+    "name": "Shein",
+    "url": "shein.co.uk",
+    "logoUrl": ""
+  },
+  {
+    "name": "H&M",
+    "url": "hm.com",
+    "logoUrl": ""
+  },
+  {
+    "name": "Argos",
+    "url": "argos.co.uk",
+    "logoUrl": ""
   }]

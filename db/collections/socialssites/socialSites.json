@@ -56,7 +56,7 @@
   },
   {
     "name": "Linked in",
-    "url": "linkedin.com/",
+    "url": "linkedin.com",
     "logoUrl": ""
   },
   {
@@ -66,31 +66,31 @@
   },
   {
     "name": "Untappd",
-    "url": "untappd.com/",
+    "url": "untappd.com",
     "logoUrl": ""
   },
   {
     "name": "Tumblr",
-    "url": "tumblr.com/",
+    "url": "tumblr.com",
     "logoUrl": ""
   },
   {
     "name": "Meetup",
-    "url": "meetup.com/",
+    "url": "meetup.com",
     "logoUrl": ""
   },
   {
     "name": "Flickr",
-    "url": "flickr.com/",
+    "url": "flickr.com",
     "logoUrl": ""
   },
   {
     "name": "MySpace",
-    "url": "myspace.com/",
+    "url": "myspace.com",
     "logoUrl": ""
   },
   {
     "name": "snapchat",
-    "url": "snapchat.com/",
+    "url": "snapchat.com",
     "logoUrl": ""
   }]
