@@ -13,6 +13,6 @@ const dataSchema = new mongoose.Schema({
     required: true,
     type: String,
   },
-});
+}, {collection: shoppingSites});
 
 module.exports = mongoose.model("shoppingSites", dataSchema);
